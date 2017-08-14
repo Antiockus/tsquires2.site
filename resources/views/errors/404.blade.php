@@ -1,1 +1,5 @@
-<h1>File not found!</h1>
+@extends('base')
+
+@section('content')
+<h1>File Not Found!</h1>
+    @endsection
