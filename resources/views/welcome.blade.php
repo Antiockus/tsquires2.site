@@ -84,7 +84,6 @@
 
                 <h1>This is a test of the git push function.</h1>
 
-                <h3>Testing</h3>
                 <div class="links">
                     <a href="https://laravel.com/docs">Documentation</a>
                     <a href="https://laracasts.com">Laracasts</a>
